@@ -6,7 +6,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory('/cv_online/'),
     routes
 });
 
